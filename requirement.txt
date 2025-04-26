@@ -1,0 +1,12 @@
+googletrans==4.0.0-rc1
+SpeechRecognition
+pydub
+python-multipart
+aiohttp
+fastapi
+uvicorn
+gtts
+python-dotenv
+cloudinary
+ffmpeg-python
+openai-whisper
